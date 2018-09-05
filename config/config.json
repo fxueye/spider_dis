@@ -1,0 +1,26 @@
+{
+    "servers": {
+		"interval":200,
+		"monitorSecond":3,
+		"workProcCount":2,
+		"workTry":5,
+		"httpProcCount":1,
+		"collectionTimes":[9,15,18,21,3]
+    },
+	"mail":{
+		"mailProcCount":10,
+		"userName":"568669736@qq.com",
+		"password":"skw0103",
+		"sender":"568669736@qq.com",
+		"smptserver":"smtp.qq.com"
+	},
+	"solidot":{
+		"urls":["http://startup.solidot.org","http://linux.solidot.org","http://science.solidot.org","http://technology.solidot.org","http://mobile.solidot.org","http://apple.solidot.org","http://hardware.solidot.org","http://software.solidot.org","http://security.solidot.org","http://games.solidot.org","http://books.solidot.org","http://blog.solidot.org","http://cloud.solidot.org"],
+		"cuid":[1,2,3,4,5,6,7,8,9,10,11,12,13],
+		"muid":1,
+		"account":"skw",
+		"charset":"utf-8",
+		"postUrl" : "www.php9.cn/data/article"
+		
+	}
+}
